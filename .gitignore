@@ -2,3 +2,6 @@
 *~
 vendor
 _output
+apiserver.local.config/
+.idea
+kubeconfig
